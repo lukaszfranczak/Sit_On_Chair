@@ -5,19 +5,18 @@ which enables to check the cost of chair with a given set of characteristics.
 Applied technologies: Javascript, jQuery, HTML, CSS, SASS
 
 Technologies applied:
-
-Javascript
-jQuery
-HTML
-SASS
-Webpack
+- Javascript
+- jQuery
+- HTML
+- SASS
+- Webpack
 
 Functionalities:
-slider
-shown/hidden menu list
-calculator to request an individually tailored product
+- slider
+- shown/hidden menu list
+- calculator to request an individually tailored product
 
 To-do:
-rework the code from float to flex
-RWD
-compatibility with all main browsers
+- rework the code from float to flex
+- RWD
+- compatibility with all main browsers
